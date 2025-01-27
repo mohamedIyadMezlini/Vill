@@ -1,0 +1,83 @@
+.best{
+  margin-top: 150px;
+  margin-left: 88px;
+}
+
+#find{
+  width: 400px;
+}
+.split{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.click{
+  margin-right: 80px;
+  border-radius: 7px;
+  border-left: #F35525 solid 25px;
+  align-content: center;
+  font-size: 150%;
+  height: 50px;
+  width: 150px;
+  background-color: #F35525;
+  color: white;
+}
+
+.details{
+  gap: 80px;
+  margin-bottom: 80px;
+  display: flex;
+}
+
+.detaille{
+  display: flex;
+  border-bottom: solid 2px #f4f4f4;
+  justify-content: space-between;
+  gap: 30px;
+}
+.detail{
+  color: #a4a4a4;
+  font-size: 110%;
+}
+
+
+.al{
+  box-shadow: 15px 15px 30px rgba(200, 200, 200, 0.312),
+  -15px -15px 30px rgba(200, 200, 200, 0.312);
+  border-radius: 20px;
+  margin: solid 2px #f4f4f4;
+  display: flex;
+  border-left: solid white 35px;
+  border-right: solid white 35px;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.spann{
+  font-size: 130%;
+  font-weight: 600;
+}
+
+.MoreInfo{
+  width: 290px;
+  font-size: 110%;
+}
+
+.para{
+  margin-bottom: 30px;
+}
+
+.schedule{
+  background-color: black;
+  color: white;
+  height: 50px;
+  font-size: 120%;
+  border-radius: 30px;
+  width: 200px;
+  transition: all ease-in-out 0.3s ;
+}
+
+.schedule:hover{
+  cursor: pointer;
+  color:#F35525;
+}

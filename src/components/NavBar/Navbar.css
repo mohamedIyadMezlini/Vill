@@ -1,0 +1,26 @@
+.NavBar{
+  display: flex;
+  background-color: white;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+.name{
+  margin-left: 80px;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+.nav{
+  display: flex;
+  margin-right: 80px;
+  font-size: 120%;
+  gap: 5px;
+}
+
+ul{
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.stastic{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.stat{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #FFEEE9;
+  height: 100px;
+  justify-content: center;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.textes{
+  font-size: 140%;
+  font-weight: 600;
+}
+
+.numbers{
+  font-size: 200%;
+  color: #F35525;
+  font-weight: 700;
+}

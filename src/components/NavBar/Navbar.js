@@ -1,4 +1,4 @@
-
+import './Navbar.css'
 
 
 const NavBar=() =>{
@@ -8,7 +8,11 @@ const NavBar=() =>{
         VILLA
       </div>
       <div className="nav">
-        
+        <ul>Home</ul>
+        <ul>Propeties</ul>
+        <ul>Property details  </ul>
+        <ul>Contact Us</ul>
+        <ul id='schedule'>Schedule a visit</ul>
       </div>
     </div>
   );

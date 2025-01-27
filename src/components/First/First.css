@@ -8,7 +8,7 @@
 #slash{
   color: #e0e0e0;
 }
-.info{
+.infor{
   margin-left: 80px;
   display: flex;
   gap: 30px;
@@ -32,7 +32,7 @@
   height: 25px;
   width: 25px;
 }
-.information{
+.informatio{
   color:#a0a0a0;
 }
 
@@ -51,7 +51,7 @@
   border: solid #a0a0a0 5px;
   border-radius: 50%;
   background-color: #a0a0a0;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 #facebook:hover { 
@@ -67,7 +67,7 @@
   border: solid #a0a0a0 5px;
   border-radius: 50%;
   background-color: #a0a0a0;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 #x:hover{
   background-color: #F35525;
@@ -82,7 +82,7 @@
   border: solid #a0a0a0 5px;
   border-radius: 50%;
   background-color: #a0a0a0;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 #linkedin:hover{
@@ -98,7 +98,7 @@
   border: solid #a0a0a0 5px;
   border-radius: 50%;
   background-color: #a0a0a0;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 #instagram:hover{
