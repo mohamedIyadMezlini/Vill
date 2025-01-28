@@ -4,6 +4,7 @@ import Pic from './components/main/Pic.js';
 import Feature from './components/featured/Featured.js'
 import Stastic from './components/statistics/stastic.js';
 import BestDeals from './components/bestDeals/bestDeals.js';
+import Properties from './components/Properties/Properties.js';
 function App() {
   return (
     <>
@@ -13,6 +14,7 @@ function App() {
     <Feature/>
     <Stastic/>
     <BestDeals/>
+    <Properties/>
     </>
   );
 }

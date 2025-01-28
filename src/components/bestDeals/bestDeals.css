@@ -81,3 +81,11 @@
   cursor: pointer;
   color:#F35525;
 }
+
+#pent{
+  border-left: solid #F35525 40px ;
+}
+
+#villa{
+  border-left: #F35525 solid 35px;
+}

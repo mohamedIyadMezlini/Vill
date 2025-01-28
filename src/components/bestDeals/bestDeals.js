@@ -47,7 +47,7 @@ const bestDeals=() =>{
 
       <div className='split'>
         <h3 className='title' id='find'>Find Your Best Deal Right Now!</h3>
-        <div className='click'>Villa House </div>
+        <div className='click' id='villa'>Villa House </div>
       </div>
       <div className='details'>
         <div className='al'>
@@ -84,7 +84,7 @@ const bestDeals=() =>{
 
       <div className='split'>
         <h3 className='title' id='find'>Find Your Best Deal Right Now!</h3>
-        <div className='click'>Penthouse</div>
+        <div className='click' id='pent'>Penthouse</div>
       </div>
       <div className='details'>
         <div className='al'>
